@@ -1,0 +1,2 @@
+# Comparative_analysis_of_telecom_plans_profitability
+Statistical Data Analysis Project from Practicum
