@@ -42,4 +42,4 @@ unilateral:
     - Users from NY-NJ area does not bring less profit than users from other regions, on average.
 
 ### The logbook of this project can be found [here](https://docs.google.com/spreadsheets/d/1SrGdReexaSEomJGS6yR6cRwJtHA_XqpprnLaE7B6Ayg/edit#gid=1515049661) (Introduction to SDA tab).
-Total time spent on the project: 14.8 hours with a daily average	of 2.27 hours working for 10 days.
+Total time spent on the project: 14.8 hours with a daily average	of 2.12 hours working for 7 days.
